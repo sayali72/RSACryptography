@@ -1,4 +1,3 @@
-RSA program contains following files:
 	1. rsacrypto.h -- This file contains class declaration
 	2. rsacrypto.cpp -- This file contains the implementation details
 	3. RSA -- This file contains the main(). This file begins the program execution.
